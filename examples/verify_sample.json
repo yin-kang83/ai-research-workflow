@@ -1,0 +1,9 @@
+{
+  "doi": "10.0000/example.sample",
+  "crossref": null,
+  "openalex": null,
+  "status": "not_found",
+  "title_match": false,
+  "year_match": false,
+  "note": "示例占位 DOI，实际使用时替换为真实 DOI"
+}

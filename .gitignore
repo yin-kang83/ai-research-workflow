@@ -1,0 +1,24 @@
+# 本地环境/密钥
+.env
+.env.*
+*.key
+*.pem
+secrets/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# 运行期产物/私有数据（绝不入库）
+.tmp/
+data/private/
+data/raw/
+*.log
+*.zip
+
+# 编辑器
+.vscode/
+.idea/

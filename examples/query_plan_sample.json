@@ -1,0 +1,25 @@
+{
+  "concept": "大语言模型 合规",
+  "terms": [
+    "大语言模型 合规",
+    "大语言模型",
+    "large language model",
+    "LLM",
+    "生成式人工智能",
+    "generative AI",
+    "合规",
+    "compliance",
+    "监管",
+    "regulation",
+    "治理",
+    "governance"
+  ],
+  "openalex_search": "大语言模型 合规 OR 大语言模型 OR large language model OR LLM OR 生成式人工智能 OR generative AI OR 合规 OR compliance OR 监管 OR regulation OR 治理 OR governance",
+  "crossref_query": "大语言模型 合规 大语言模型 large language model LLM 生成式人工智能 generative AI 合规 compliance 监管 regulation 治理 governance",
+  "arxiv_query": "\"大语言模型 合规\" OR \"大语言模型\" OR \"large language model\" OR \"LLM\" OR \"生成式人工智能\" OR \"generative AI\" OR \"合规\" OR \"compliance\" OR \"监管\" OR \"regulation\" OR \"治理\" OR \"governance\"",
+  "notes": [
+    "关键词扩展为规则表 + 可选自定义同义词，可审计、可复现；",
+    "检索结果仍需按 L1/L2/L3 证据分级并核对原文；",
+    "不检索/不下载非 OA 全文；arXiv 为预印本，引用需注明未同行评审。"
+  ]
+}

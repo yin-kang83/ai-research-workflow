@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+testpaths = ["tests", "skills/literature-retrieval/tests"]
+python_files = ["test_*.py"]
+addopts = "-q"
